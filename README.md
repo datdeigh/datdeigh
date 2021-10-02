@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datdeigh
+- 👋 Hi, I’m Dee
 - 👀 I’m interested in ...Effective Reporting structure
 - 🌱 I’m currently learning ...Google Analytics
 - 💞️ I’m looking to collaborate on ...Dashboard Building
